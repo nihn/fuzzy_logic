@@ -4,6 +4,10 @@ Fuzzy logic python library based on numpy and matplotlib
 
 Version 0.0.1
 
+Installation:
+
+    pip install fuzzy_logic
+
 Contains:
 * FuzzyRel - fuzzy relation class.
 * FuzzySet - fuzzy set class.

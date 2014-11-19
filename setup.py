@@ -14,7 +14,7 @@ setup(
     license="Apache 2.0",
     keywords="fuzzy logic",
     packages=['fuzzy'],
-    long_description=read('README'),
+    long_description=read('README.md'),
     classifiers=[
         "Development Status :: 2 - Pre-Alpha",
     ],
